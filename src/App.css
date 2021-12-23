@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding:0;
+}
+*{
+    box-sizing:border-box;
+}
+.app{
+    width: 100%;
+    /* max-width:500px; */
+    /* position: relative; */
+    min-height:100vh;
+}
+.tudoLogin{
+    max-width: 500px;
+    margin:0 auto;
+}

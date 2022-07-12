@@ -1,4 +1,11 @@
 # Layout de um Android APP - React + Material-UI
+<p align="center">
+<a href="https://github.com/Francisco-Fetapi/layout1-material-ui/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Francisco-Fetapi/layout1-material-ui?style=plastic"></a>
+<a href="https://github.com/Francisco-Fetapi/layout1-material-ui"><img alt="GitHub license" src="https://img.shields.io/badge/Exercise-For%20trainning-orange"></a>
+<a href="https://github.com/Francisco-Fetapi/layout1-material-ui/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Francisco-Fetapi/layout1-material-ui?style=plastic"></a>
+<a href="https://github.com/Francisco-Fetapi/layout1-material-ui/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Francisco-Fetapi/layout1-material-ui?style=plastic"></a>
+<a href="https://github.com/Francisco-Fetapi/layout1-material-ui"><img alt="GitHub license" src="https://img.shields.io/github/license/Francisco-Fetapi/layout1-material-ui?style=plastic"></a>
+</p>
 
 Este é um template criado para __fins de estudo__ para exercitar os principais componentes do Material-UI. Ele não foi finalizado porque não era essa a minha pretensão.
 

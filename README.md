@@ -10,7 +10,8 @@
 Este é um template criado para __fins de estudo__ para exercitar os principais componentes do Material-UI. Ele não foi finalizado porque não era essa a minha pretensão.
 O objetivo era o de apenas conhecer os _principais componentes_ do [Material-UI](https://v4.mui.com/) na prática, as funcionalidades não eram o foco.
 
-![layout-mui-android-app](https://user-images.githubusercontent.com/74926014/180441477-af606ead-8602-4155-99d0-76223c4eb835.gif)
+![layout-mui-android-app](https://user-images.githubusercontent.com/74926014/181216876-fc3da390-2545-4cb0-80af-9ff5ea9c568d.gif)
+
 
 ##
 
